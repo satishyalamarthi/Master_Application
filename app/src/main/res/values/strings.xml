@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    
+    <!-- Main Screen -->
+    <string name="expense_types">Expense Types</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="view_expenses">View Expenses</string>
+    
+    <!-- Expense Type -->
+    <string name="add_expense_type">Add Expense Type</string>
+    <string name="expense_type_name">Expense Type Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    
+    <!-- Expense -->
+    <string name="select_type">Select Type</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    
+    <!-- Goals -->
+    <string name="set_goal">Set Goal</string>
+    <string name="monthly_goal">Monthly Goal</string>
+    <string name="goal">Goal</string>
+    <string name="actual">Actual</string>
+    
+    <!-- Details -->
+    <string name="expense_details">Expense Details</string>
+    <string name="total_spent">Total Spent</string>
+    <string name="no_expenses">No expenses found</string>
+    <string name="no_expense_types">No expense types. Please add one first.</string>
+    
+    <!-- Validation -->
+    <string name="error_empty_name">Please enter a name</string>
+    <string name="error_empty_amount">Please enter an amount</string>
+    <string name="error_select_type">Please select an expense type</string>
+</resources>
